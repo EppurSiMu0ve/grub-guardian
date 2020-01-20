@@ -1,0 +1,2 @@
+# grub-guardian
+O grub é o pacote que permite a inicialização de um sistema operacional entre as que estiver instaladas numa máquina. Por padrão ele permite que suas configurações sejam editadas através da tecla "e". Se um possível atacante (hacker) obtiver acesso à sua máquina física e alterar o seu grub de determinada forma, ele poderá acessar o seu sistema como root sem nem mesmo saber a senha. Esse script te proteje desse tipo de vulnerabilidade.
